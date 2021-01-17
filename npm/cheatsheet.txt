@@ -26,6 +26,6 @@ Remove package
 npm uninstall package-name 
 
 
-Note: reason why the .ock file exist is beacuse of the use of semantic versioning. It is advised to keep that file versioned as well. 
+Note: reason why the .lock file exist is because of the use of semantic versioning. It is advised to keep that file versioned as well. 
 
 
