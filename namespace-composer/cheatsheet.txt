@@ -1,0 +1,7 @@
+composer install 
+
+composer require package-name 
+composer remove packager-name
+
+composer update (upgrade packages if not specified)
+

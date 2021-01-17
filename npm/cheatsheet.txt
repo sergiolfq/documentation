@@ -1,0 +1,31 @@
+Introduction and installation 
+
+	npm init ( --yes)
+
+Adding node Packages 
+     
+     npm install express 
+
+Dev dependencies like babel or others no needed in production  use "--save-dev"
+
+Global install 
+
+sudo npm install -g react 
+
+
+Updating package 
+   sudo npm update package-name -g if global 
+   sudo npm install package-name -g
+
+checking dependencies  npm outdated 
+
+npm outdated -g  
+
+Remove package 
+
+npm uninstall package-name 
+
+
+Note: reason why the .ock file exist is beacuse of the use of semantic versioning. It is advised to keep that file versioned as well. 
+
+
